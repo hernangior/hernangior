@@ -9,10 +9,10 @@
 </div>
 
 ## front end skills
-[![My Skills](https://skillicons.dev/icons?i=jquery,html,css,bootstrap,md)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,jquery,md)](https://skillicons.dev)
 
 ## social media
-[![My Skills](https://skillicons.dev/icons?i=gmail,instagram,stackoverflow,twitter,devto,discord,linkedin,github,gitlab)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=gmail,instagram,linkedin,discord,devto,gitlab,twitter,stackoverflow)](https://skillicons.dev)
 
 ## databases
 [![My Skills](https://skillicons.dev/icons?i=mysql,postgres,sqlite)](https://skillicons.dev)

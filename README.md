@@ -38,23 +38,32 @@
     <img src="https://cdn-icons-png.flaticon.com/512/5968/5968520.png" 
       width="50" height="50">
   </a>
+  <a>
+    <!-- Csnon Camera -->
+    <img src="https://icons.iconarchive.com/icons/hadezign/hobbies/128/Photography-icon.png" 
+     width="50" height="50">
+  </a>
  </div>
 
-  <div style="width: 100%; overflow: hidden;">
+ <div style="width: 100%; overflow: hidden;">
   <a>
-    <!-- Camera -->
-    <img src="https://icons.iconarchive.com/icons/icons8/windows-8/128/Photo-Video-Slr-Small-Lens-icon.png"
-      width="50" height="50">
+    <!-- Paint -->
+    <img src="https://cdn-icons-png.flaticon.com/512/10398/10398390.png" 
+     width="50" height="50">
   </a>
-  <a>
-    <!-- Lens 1-->
-    <img src="https://icons.iconarchive.com/icons/icons8/ios7/128/Photo-Video-Large-Lens-Filled-icon.png" 
-      width="50" height="50">
+    <a>
+    <!-- Paint -->
+    <img src="https://cdn-icons-png.flaticon.com/512/449/449031.png" 
+     width="50" height="50">
   </a>
-  <a>
-    <!-- Lens 2 -->
-    <img src="https://raw.githubusercontent.com/hernangior/images/main/canon-24mm.png" 
-      width="50" height="50">
+    <a>
+    <!-- Paint -->
+    <img src="https://cdn-icons-png.flaticon.com/512/6759/6759137.png" 
+     width="50" height="50">
+  </a>
+    <a>
+    <!-- Paint -->
+    <img src="https://cdn-icons-png.flaticon.com/512/3237/3237157.png" 
+     width="50" height="50">
   </a>
  </div>
- 

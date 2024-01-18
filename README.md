@@ -7,15 +7,27 @@
       width="50" height="50">
   </a>
 </div>
+<br>
+
+	 "the engines that powers seamless functionality and delivers dynamic results."
 
 ## 🏳️ front end skills
 [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,jquery,md)](https://skillicons.dev)
+<br>
+
+	 "crafting digital experiences that captivate and engage users."
 
 ## ✉️ social media
 [![My Skills](https://skillicons.dev/icons?i=gmail,instagram,linkedin,discord,devto,gitlab,twitter,stackoverflow)](https://skillicons.dev)
+<br>
+
+	 "where virtual worlds converge, voices amplify, and connections transcend boundaries."
 
 ## 🗄️ databases
 [![My Skills](https://skillicons.dev/icons?i=mysql,postgres,sqlite)](https://skillicons.dev)
+<br>
+
+	 "Behind every great application, there's a well-structured database silently empowering its functionality."
 
 ## 📝 preferred editors
 [![My Skills](https://skillicons.dev/icons?i=eclipse,idea,vscode,postman,powershell)](https://skillicons.dev)
@@ -26,6 +38,9 @@
       width="50" height="50">
   </a>
  </div>
+ <br>
+ 
+	 "Text editors and IDEs empower programmers to shape their digital worlds with precision and creativity."
 
 ## 📸 photography and image editing skills
  <div style="width: 100%; overflow: hidden;">
@@ -50,6 +65,9 @@
      width="50" height="50">
   </a>
  </div>
+ <br>
+
+	 "Photography is the art of capturing moments that words cannot express."
  
 ## 🎨 painting and **drawing skills**
  <div style="width: 100%; overflow: hidden;">
@@ -74,3 +92,7 @@
      width="50" height="50">
   </a>
  </div>
+ 
+ <br>
+ 
+	 "Art brings colors to my world and shapes to my thoughts."

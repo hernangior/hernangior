@@ -1,19 +1,5 @@
-[![My Skills](https://skillicons.dev/icons?i=java,spring,hibernate,php,laravel,ruby,c,ts,js,jquery,html,css,bootstrap,md)](https://skillicons.dev)
-
-[![My Skills](https://skillicons.dev/icons?i=gmail,instagram,stackoverflow,twitter,devto,discord,linkedin,github,gitlab)](https://skillicons.dev)
-
-[![My Skills](https://skillicons.dev/icons?i=eclipse,idea,vscode,postman,powershell)](https://skillicons.dev)
-
-[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,sqlite)](https://skillicons.dev)
-
- <div style="width: 100%; overflow: hidden;">
-  <a>
-    <!-- Sublime -->
-    <img src="https://user-images.githubusercontent.com/25181517/190887576-6653f877-8439-4521-82f3-403086ead892.png" 
-      width="50" height="50">
-  </a>
- </div>
- 
+## back end skills
+[![My Skills](https://skillicons.dev/icons?i=java,spring,hibernate,php,laravel,ruby,c,ts,js)](https://skillicons.dev)
 <div style="width: 100%; overflow: hidden;">
   <a>
     <!-- Delphi -->
@@ -22,6 +8,26 @@
   </a>
 </div>
 
+## front end skills
+[![My Skills](https://skillicons.dev/icons?i=jquery,html,css,bootstrap,md)](https://skillicons.dev)
+
+## social media
+[![My Skills](https://skillicons.dev/icons?i=gmail,instagram,stackoverflow,twitter,devto,discord,linkedin,github,gitlab)](https://skillicons.dev)
+
+## databases
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,sqlite)](https://skillicons.dev)
+
+## preferred editors
+[![My Skills](https://skillicons.dev/icons?i=eclipse,idea,vscode,postman,powershell)](https://skillicons.dev)
+ <div style="width: 100%; overflow: hidden;">
+  <a>
+    <!-- Sublime -->
+    <img src="https://user-images.githubusercontent.com/25181517/190887576-6653f877-8439-4521-82f3-403086ead892.png" 
+      width="50" height="50">
+  </a>
+ </div>
+
+## photography and image editing skills
  <div style="width: 100%; overflow: hidden;">
   <a>
     <!-- Adobe Lightroom -->
@@ -44,7 +50,8 @@
      width="50" height="50">
   </a>
  </div>
-
+ 
+## painting and drawing skills
  <div style="width: 100%; overflow: hidden;">
   <a>
     <!-- Paint -->

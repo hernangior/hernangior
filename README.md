@@ -1,4 +1,4 @@
-## back end skills
+## ⚓ back end skills
 [![My Skills](https://skillicons.dev/icons?i=java,spring,hibernate,php,laravel,ruby,c,ts,js)](https://skillicons.dev)
 <div style="width: 100%; overflow: hidden;">
   <a>
@@ -8,16 +8,16 @@
   </a>
 </div>
 
-## front end skills
+## 🚩 front end skills
 [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,jquery,md)](https://skillicons.dev)
 
-## social media
+## ✉️ social media
 [![My Skills](https://skillicons.dev/icons?i=gmail,instagram,linkedin,discord,devto,gitlab,twitter,stackoverflow)](https://skillicons.dev)
 
-## databases
+## 🏦 databases
 [![My Skills](https://skillicons.dev/icons?i=mysql,postgres,sqlite)](https://skillicons.dev)
 
-## preferred editors
+## 📝 preferred editors
 [![My Skills](https://skillicons.dev/icons?i=eclipse,idea,vscode,postman,powershell)](https://skillicons.dev)
  <div style="width: 100%; overflow: hidden;">
   <a>
@@ -27,7 +27,7 @@
   </a>
  </div>
 
-## photography and image editing skills
+## 📸 photography and image editing skills
  <div style="width: 100%; overflow: hidden;">
   <a>
     <!-- Adobe Lightroom -->
@@ -51,7 +51,7 @@
   </a>
  </div>
  
-## painting and drawing skills
+## 🎨 painting and **drawing skills**
  <div style="width: 100%; overflow: hidden;">
   <a>
     <!-- Paint -->

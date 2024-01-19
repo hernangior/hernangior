@@ -1,12 +1,15 @@
-# Hi, I'm Hernandez Giordano! 
+# Hi, I'm Hernandez Giordano! 😎
 
 <p align="justify">
-<b>Full stack software developer</b> with <b>front-end</b> and <b>back-end</b> skills, passionate about creating innovative and intuitive solutions.
+👨‍💻 <b>Full stack software developer</b> with <b>front-end</b> and <b>back-end</b> skills, passionate about creating innovative and intuitive solutions.
 
-<b>professional photographer</b>, capturing special moments and exploring different techniques to create visually captivating images, as well as a <b>designer</b> and interested in <b>visual arts</b>.
+📸 <b>professional photographer</b>, capturing special moments and exploring different techniques to create visually captivating images, as well as a <b>designer</b> and interested in <b>visual arts</b>.
 
-<b>Interested in sports</b>, both as a spectator and as a practitioner, as I believe that physical activity is fundamental to a balanced lifestyle
+🥊 <b>Interested in sports</b>, both as a spectator and as a practitioner, as I believe that physical activity is fundamental to a balanced lifestyle
 </p>
+<br>
+<br>
+<br>
 
 ## ⚓ back end skills
 [![My Skills](https://skillicons.dev/icons?i=java,spring,hibernate,php,laravel,ruby,c,ts,js)](https://skillicons.dev)

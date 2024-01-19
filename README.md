@@ -107,7 +107,16 @@
      width="50" height="50">
   </a>
  </div>
- 
  <br>
  
 	 "Art brings colors to my world and shapes to my thoughts."
+
+
+  ## 🎮 favorite games
+ <div style="width: 100%; overflow: hidden;">
+  <a>
+    <!-- Paint -->
+    <img src="https://w7.pngwing.com/pngs/513/274/png-transparent-hearthstone-overwatch-computer-icons-android-hearthstone-game-google-play-circle.png" 
+     width="50" height="50">
+  </a>
+ </div>

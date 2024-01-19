@@ -79,7 +79,7 @@
 	 "Behind every great application, there's a well-structured database silently empowering its functionality."
 
 ## 📝 preferred editors and tools
-[![My Skills](https://skillicons.dev/icons?i=eclipse,idea,vscode,postman,powershell)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=eclipse,idea,vscode)](https://skillicons.dev)
  <div style="width: 100%; overflow: hidden;">
   <a>
     <!-- Sublime -->

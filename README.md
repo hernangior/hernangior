@@ -14,10 +14,21 @@
 [![My Skills](https://skillicons.dev/icons?i=java,spring,hibernate,php,laravel,ruby,c,ts,js)](https://skillicons.dev)
 <div style="width: 100%; overflow: hidden;">
   <a>
+    <!-- Delphi 7-->
+    <img src="https://tsanthiago.files.wordpress.com/2016/03/icondelphi7.jpg?w=165&h=150&crop=1" 
+      width="50" height="50">
+  </a>
+  <a>
     <!-- Delphi -->
     <img src="https://cdn-icons-png.flaticon.com/512/5968/5968252.png" 
       width="50" height="50">
   </a>
+  <a>
+    <!-- Visual Basic -->
+    <img src="https://upload.wikimedia.org/wikipedia/en/e/e4/Visual_Basic_6.0_logo.png" 
+      width="50" height="50">
+  </a>
+
 </div>
 <br>
 
@@ -41,7 +52,7 @@
 
 	 "Behind every great application, there's a well-structured database silently empowering its functionality."
 
-## 📝 preferred editors
+## 📝 preferred editors and tools
 [![My Skills](https://skillicons.dev/icons?i=eclipse,idea,vscode,postman,powershell)](https://skillicons.dev)
  <div style="width: 100%; overflow: hidden;">
   <a>
@@ -49,6 +60,16 @@
     <img src="https://user-images.githubusercontent.com/25181517/190887576-6653f877-8439-4521-82f3-403086ead892.png" 
       width="50" height="50">
   </a>
+  <a>
+    <!-- Sublime -->
+    <img src="https://notepad-plus-plus.org/images/logo.svg" 
+      width="50" height="50">
+  </a> 
+  <a>
+    <!-- Sublime -->
+    <img src="https://netbeans.apache.org/_/images/apache-netbeans.svg" 
+      width="50" height="50">
+  </a>  
  </div>
  <br>
  

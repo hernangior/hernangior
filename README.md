@@ -28,7 +28,16 @@
     <img src="https://upload.wikimedia.org/wikipedia/en/e/e4/Visual_Basic_6.0_logo.png" 
       width="50" height="50">
   </a>
-
+  <a>
+    <!-- Visual Basic -->
+    <img src="https://cdn.iconscout.com/icon/free/png-256/free-codeigniter-4-1175201.png?f=webp&w=256" 
+      width="50" height="50">
+  </a>
+  <a>
+    <!-- Visual Basic -->
+    <img src="https://i2.wp.com/www.primefaces.org/wp-content/uploads/2016/10/primeng_solidBlack.png?fit=250%2C250&ssl=1" 
+      width="50" height="50">
+  </a>
 </div>
 <br>
 

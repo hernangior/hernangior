@@ -9,7 +9,6 @@
 </p>
 <br>
 <br>
-<br>
 
 ## ⚓ back end skills
 [![My Skills](https://skillicons.dev/icons?i=java,spring,hibernate,php,laravel,ruby,c,ts,js)](https://skillicons.dev)

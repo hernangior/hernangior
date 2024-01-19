@@ -118,6 +118,8 @@
     <img src="https://cdn-icons-png.flaticon.com/512/5968/5968520.png" 
       width="50" height="50">
   </a>
+ </div>
+   <div style="width: 100%; overflow: hidden;">
   <a>
     <!-- Csnon Camera -->
     <img src="https://icons.iconarchive.com/icons/hadezign/hobbies/128/Photography-icon.png" 

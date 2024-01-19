@@ -76,7 +76,7 @@
   </a>  
   <a>
     <!-- Csnon Camera -->
-    <img src="https://cdn-icons-png.flaticon.com/512/726/726289.png" 
+    <img src="https://cdn-icons-png.flaticon.com/512/2319/2319794.png" 
      width="50" height="50">
   </a>   
  </div>

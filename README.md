@@ -132,3 +132,8 @@
      width="50" height="50">
   </a>
  </div>
+ <br>
+ 
+	 "Games: where imagination thrives, challenges arise, and endless adventures await"
+
+

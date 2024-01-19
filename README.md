@@ -48,6 +48,23 @@
 
 ## 🗄️ databases
 [![My Skills](https://skillicons.dev/icons?i=mysql,postgres,sqlite)](https://skillicons.dev)
+<div style="width: 100%; overflow: hidden;">
+  <a>
+    <!-- -->
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968364.png" 
+      width="50" height="50">
+  </a>
+  <a>
+    <!-- -->
+    <img src="https://pic.onlinewebfonts.com/thumbnails/icons_248288.svg" 
+      width="50" height="50">
+  </a>
+  <a>
+    <!-- -->
+    <img src="https://firebirdsql.org/img/about/logos/ds-firebird-logo-90.png" 
+      width="50" height="50">
+  </a>
+</div>
 <br>
 
 	 "Behind every great application, there's a well-structured database silently empowering its functionality."

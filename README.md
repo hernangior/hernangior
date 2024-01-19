@@ -64,6 +64,21 @@
     <img src="https://icons.iconarchive.com/icons/hadezign/hobbies/128/Photography-icon.png" 
      width="50" height="50">
   </a>
+  <a>
+    <!-- Csnon Camera -->
+    <img src="https://cdn-icons-png.flaticon.com/512/2613/2613219.png" 
+     width="50" height="50">
+  </a> 
+  <a>
+    <!-- Csnon Camera -->
+    <img src="https://cdn-icons-png.flaticon.com/512/5109/5109411.png" 
+     width="50" height="50">
+  </a>  
+  <a>
+    <!-- Csnon Camera -->
+    <img src="https://cdn-icons-png.flaticon.com/512/726/726289.png" 
+     width="50" height="50">
+  </a>   
  </div>
  <br>
 

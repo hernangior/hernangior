@@ -169,23 +169,47 @@
 
 
 ## 📝 preferred editors and tools
-[![My Skills](https://skillicons.dev/icons?i=eclipse,idea,vscode)](https://skillicons.dev)
  <div style="width: 100%; overflow: hidden;">
   <a>
-    <!-- Sublime -->
-    <img src="https://user-images.githubusercontent.com/25181517/190887576-6653f877-8439-4521-82f3-403086ead892.png" 
-      width="50" height="50">
+    <!-- InteliJava -->
+    <img src="https://raw.githubusercontent.com/hernangior/hernangior/master/images/java.png" 
+      width="65" height="65">
   </a>
   <a>
-    <!-- Sublime -->
-    <img src="https://notepad-plus-plus.org/images/logo.svg" 
-      width="50" height="50">
+    <!-- InteliStormn -->
+    <img src="https://raw.githubusercontent.com/hernangior/hernangior/master/images/storm.png" 
+      width="65" height="65">
   </a> 
   <a>
-    <!-- Sublime -->
-    <img src="https://netbeans.apache.org/_/images/apache-netbeans.svg" 
-      width="50" height="50">
+    <!-- Eclipse -->
+    <img src="https://raw.githubusercontent.com/hernangior/hernangior/master/images/eclipse.png" 
+      width="65" height="65">
+  </a> 
+  <a>
+    <!-- STS -->
+    <img src="https://raw.githubusercontent.com/hernangior/hernangior/master/images/spring_tools.png" 
+      width="65" height="65">
+  </a> 
+  <a>
+    <!-- NetBeans -->
+    <img src="https://raw.githubusercontent.com/hernangior/hernangior/master/images/netbeans.png" 
+      width="65" height="65">
   </a>  
+     <a>
+    <!-- Notepad++ -->
+    <img src="https://raw.githubusercontent.com/hernangior/hernangior/master/images/notepad%2B%2B.png" 
+      width="65" height="65">
+  </a> 
+     <a>
+    <!-- Sublime -->
+    <img src="https://raw.githubusercontent.com/hernangior/hernangior/master/images/sublime.png" 
+      width="65" height="65">
+  </a> 
+     <a>
+    <!-- VSCode -->
+    <img src="https://raw.githubusercontent.com/hernangior/hernangior/master/images/vscode.png" 
+      width="65" height="65">
+  </a> 
  </div>
  <br>
  

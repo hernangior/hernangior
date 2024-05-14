@@ -192,19 +192,19 @@
 ## 🖥️ Operating system
  <div style="width: 100%; overflow: hidden;">
   <a>
-    <!--  -->
-    <img src="https://user-images.githubusercontent.com/25181517/186884159-4b5e122b-95de-4a32-b10b-7f6fdffa4c5a.png" 
-      width="50" height="50">
+    <!-- Linux Mint icon -->
+    <img src="https://raw.githubusercontent.com/hernangior/hernangior/master/images/mint.png" 
+      width="65" height="65">
   </a>
   <a>
-    <!--  -->
-    <img src="https://user-images.githubusercontent.com/25181517/186884153-99edc188-e4aa-4c84-91b0-e2df260ebc33.png" 
-      width="50" height="50">
+    <!-- Linux Ubuntu Icon -->
+    <img src="https://raw.githubusercontent.com/hernangior/hernangior/master/images/ubuntu.png" 
+      width="65" height="65">
   </a>
   <a>
-    <!--  -->
-    <img src="https://user-images.githubusercontent.com/25181517/186884150-05e9ff6d-340e-4802-9533-2c3f02363ee3.png" 
-      width="50" height="50">
+    <!-- Windows Icon -->
+    <img src="https://raw.githubusercontent.com/hernangior/hernangior/master/images/windows.png" 
+      width="65" height="65">
   </a>
  </div>
 

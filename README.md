@@ -237,42 +237,42 @@
  <div style="width: 100%; overflow: hidden;">
   <a>
     <!-- InteliJava -->
-    <img src="https://raw.githubusercontent.com/hernangior/hernangior/master/images/java.png" 
+    <img src="https://raw.githubusercontent.com/hernangior/hernangior/master/images/ide/java.png" 
       width="65" height="65">
   </a>
   <a>
     <!-- InteliStormn -->
-    <img src="https://raw.githubusercontent.com/hernangior/hernangior/master/images/storm.png" 
+    <img src="https://raw.githubusercontent.com/hernangior/hernangior/master/images/ide/storm.png" 
       width="65" height="65">
   </a> 
   <a>
     <!-- Eclipse -->
-    <img src="https://raw.githubusercontent.com/hernangior/hernangior/master/images/eclipse.png" 
+    <img src="https://raw.githubusercontent.com/hernangior/hernangior/master/images/ide/eclipse.png" 
       width="65" height="65">
   </a> 
   <a>
     <!-- STS -->
-    <img src="https://raw.githubusercontent.com/hernangior/hernangior/master/images/spring_tools.png" 
+    <img src="https://raw.githubusercontent.com/hernangior/hernangior/master/images/ide/spring_tools.png" 
       width="65" height="65">
   </a> 
   <a>
     <!-- NetBeans -->
-    <img src="https://raw.githubusercontent.com/hernangior/hernangior/master/images/netbeans.png" 
+    <img src="https://raw.githubusercontent.com/hernangior/hernangior/master/images/ide/netbeans.png" 
       width="65" height="65">
   </a>  
      <a>
     <!-- Notepad++ -->
-    <img src="https://raw.githubusercontent.com/hernangior/hernangior/master/images/notepad%2B%2B.png" 
+    <img src="https://raw.githubusercontent.com/hernangior/hernangior/master/images/ide/notepad%2B%2B.png" 
       width="65" height="65">
   </a> 
      <a>
     <!-- Sublime -->
-    <img src="https://raw.githubusercontent.com/hernangior/hernangior/master/images/sublime.png" 
+    <img src="https://raw.githubusercontent.com/hernangior/hernangior/master/images/ide/sublime.png" 
       width="65" height="65">
   </a> 
      <a>
     <!-- VSCode -->
-    <img src="https://raw.githubusercontent.com/hernangior/hernangior/master/images/vscode.png" 
+    <img src="https://raw.githubusercontent.com/hernangior/hernangior/master/images/ide/vscode.png" 
       width="65" height="65">
   </a> 
  </div>

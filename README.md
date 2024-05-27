@@ -7,6 +7,12 @@
 
 🥊 <b>Interested in sports</b>, both as a spectator and as a practitioner, as I believe that physical activity is fundamental to a balanced lifestyle
 </p>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hernangior&show_icons=true&theme=highcontrast) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+
+
+![Metrics](https://metrics.lecoq.io/hernangior?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=America%2FFortaleza)
+
 <br>
 <br>
 

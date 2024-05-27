@@ -200,32 +200,32 @@
 <div style="width: 100%; overflow: hidden;">
   <a>
     <!-- MySql -->
-    <img src="https://raw.githubusercontent.com/hernangior/hernangior/master/images/mysql.png" 
+    <img src="https://raw.githubusercontent.com/hernangior/hernangior/master/images/database/mysql.png" 
       width="65" height="65">
   </a>
   <a>
     <!-- Postgres -->
-    <img src="https://raw.githubusercontent.com/hernangior/hernangior/master/images/postgres.png" 
+    <img src="https://raw.githubusercontent.com/hernangior/hernangior/master/images/database/postgres.png" 
       width="65" height="65">
   </a>
   <a>
     <!-- Sqlite -->
-    <img src="https://raw.githubusercontent.com/hernangior/hernangior/master/images/sqlite.png" 
+    <img src="https://raw.githubusercontent.com/hernangior/hernangior/master/images/database/sqlite.png" 
       width="65" height="65">
   </a>
   <a>
     <!-- SqlServer -->
-    <img src="https://raw.githubusercontent.com/hernangior/hernangior/master/images/sql_server.png" 
+    <img src="https://raw.githubusercontent.com/hernangior/hernangior/master/images/database/sql_server.png" 
       width="65" height="65">
   </a>
   <a>
     <!-- Oracle -->
-    <img src="https://raw.githubusercontent.com/hernangior/hernangior/master/images/oracle.png" 
+    <img src="https://raw.githubusercontent.com/hernangior/hernangior/master/images/database/oracle.png" 
       width="65" height="65">
   </a>
   <a>
     <!-- Firebird -->
-    <img src="https://raw.githubusercontent.com/hernangior/hernangior/master/images/firebird.png" 
+    <img src="https://raw.githubusercontent.com/hernangior/hernangior/master/images/database/firebird.png" 
       width="65" height="65">
   </a>
 </div>
@@ -282,17 +282,17 @@
  <div style="width: 100%; overflow: hidden;">
   <a>
     <!-- Linux Mint icon -->
-    <img src="https://raw.githubusercontent.com/hernangior/hernangior/master/images/mint.png" 
+    <img src="https://raw.githubusercontent.com/hernangior/hernangior/master/images/system/mint.png" 
       width="65" height="65">
   </a>
   <a>
     <!-- Linux Ubuntu Icon -->
-    <img src="https://raw.githubusercontent.com/hernangior/hernangior/master/images/ubuntu.png" 
+    <img src="https://raw.githubusercontent.com/hernangior/hernangior/master/images/system/ubuntu.png" 
       width="65" height="65">
   </a>
   <a>
     <!-- Windows Icon -->
-    <img src="https://raw.githubusercontent.com/hernangior/hernangior/master/images/windows.png" 
+    <img src="https://raw.githubusercontent.com/hernangior/hernangior/master/images/system/windows.png" 
       width="65" height="65">
   </a>
  </div>

@@ -146,22 +146,36 @@
 
 
 ## 🗄️ databases
-[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,sqlite)](https://skillicons.dev)
 <div style="width: 100%; overflow: hidden;">
   <a>
-    <!-- -->
-    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968364.png" 
-      width="50" height="50">
+    <!-- MySql -->
+    <img src="https://raw.githubusercontent.com/hernangior/hernangior/master/images/mysql.png" 
+      width="65" height="65">
   </a>
   <a>
-    <!-- -->
-    <img src="https://pic.onlinewebfonts.com/thumbnails/icons_248288.svg" 
-      width="50" height="50">
+    <!-- Postgres -->
+    <img src="https://raw.githubusercontent.com/hernangior/hernangior/master/images/postgres.png" 
+      width="65" height="65">
   </a>
   <a>
-    <!-- -->
-    <img src="https://firebirdsql.org/img/about/logos/ds-firebird-logo-90.png" 
-      width="50" height="50">
+    <!-- Sqlite -->
+    <img src="https://raw.githubusercontent.com/hernangior/hernangior/master/images/sqlite.png" 
+      width="65" height="65">
+  </a>
+  <a>
+    <!-- SqlServer -->
+    <img src="https://raw.githubusercontent.com/hernangior/hernangior/master/images/sql_server.png" 
+      width="65" height="65">
+  </a>
+  <a>
+    <!-- Oracle -->
+    <img src="https://raw.githubusercontent.com/hernangior/hernangior/master/images/oracle.png" 
+      width="65" height="65">
+  </a>
+  <a>
+    <!-- Firebird -->
+    <img src="https://raw.githubusercontent.com/hernangior/hernangior/master/images/firebird.png" 
+      width="65" height="65">
   </a>
 </div>
 <br>

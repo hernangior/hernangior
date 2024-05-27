@@ -10,7 +10,7 @@
 <br>
 <br>
 
-## ⚓ back end skills
+## ⚓ Back End Skills
 
 <div style="width: 100%; overflow: hidden;">
   <a>
@@ -128,7 +128,7 @@
 </div>
 
 
-## 🛡 front end skills
+## 🛡 Front End Skills
 <div style="width: 100%; overflow: hidden;">
     <a>
     <!-- HTML5 -->
@@ -163,7 +163,7 @@
 </div>
 <br>
 
-## ✉️ social media
+## ✉️ Social Media
 <div style="width: 100%; overflow: hidden;">
     <a>
     <!-- Whatsapp -->
@@ -222,7 +222,7 @@
   </a>
 <br>
 
-## 🗄️ databases
+## 🗄️ Knowledge in Databases
 <div style="width: 100%; overflow: hidden;">
   <a>
     <!-- MySql -->
@@ -259,7 +259,7 @@
 
 
 
-## 📝 preferred editors and tools
+## 📝 Preferred IDEs and Tools
  <div style="width: 100%; overflow: hidden;">
   <a>
     <!-- InteliJava -->
@@ -304,7 +304,7 @@
  </div>
  <br>
  
-## 🖥️ Operating system
+## 🖥️ Knowledge of Operating system
  <div style="width: 100%; overflow: hidden;">
   <a>
     <!-- Linux Mint icon -->

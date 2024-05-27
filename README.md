@@ -134,7 +134,37 @@
 
 
 ## 🏳️ front end skills
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,jquery,md)](https://skillicons.dev)
+<div style="width: 100%; overflow: hidden;">
+    <a>
+    <!-- HTML5 -->
+    <img src="https://raw.githubusercontent.com/hernangior/hernangior/master/images/front/html5.png" 
+      width="65" height="65">
+  </a>
+    <a>
+    <!-- CSS3 -->
+    <img src="https://raw.githubusercontent.com/hernangior/hernangior/master/images/front/css3.png" 
+      width="65" height="65">
+  </a>
+    <a>
+    <!-- JS5 -->
+    <img src="https://raw.githubusercontent.com/hernangior/hernangior/master/images/front/js.png" 
+      width="65" height="65">
+  </a>
+    <a>
+    <!-- Bootstrap -->
+    <img src="https://raw.githubusercontent.com/hernangior/hernangior/master/images/front/bootstrap.png" 
+      width="65" height="65">
+  </a>
+    <a>
+    <!-- JQuery -->
+    <img src="https://raw.githubusercontent.com/hernangior/hernangior/master/images/front/jquery.png" 
+      width="65" height="65">
+  </a>
+    <a>
+    <!-- Markdown -->
+    <img src="https://raw.githubusercontent.com/hernangior/hernangior/master/images/front/makdown.png" 
+      width="65" height="65">
+  </a>
 <br>
 
 ## ✉️ social media

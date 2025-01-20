@@ -5,9 +5,6 @@
 
 📸 <b>professional photographer</b>, capturing special moments and exploring different techniques to create visually captivating images, as well as a <b>designer</b> and interested in <b>visual arts</b>.
 
-🥊 <b>Interested in sports</b>, both as a spectator and as a practitioner, as I believe that physical activity is fundamental to a balanced lifestyle
-</p>
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hernangior&show_icons=true&theme=highcontrast) 
 
 

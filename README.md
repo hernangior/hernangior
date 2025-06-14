@@ -1,5 +1,7 @@
 # Hi, I'm Hernandez Giordano! 😎
 
+<p align="justify">
+👨‍💻 <b>Full stack software developer</b> with <b>front-end</b> and <b>back-end</b> skills, passionate about creating innovative and intuitive solutions.
 
 <br>
 <br>
@@ -11,6 +13,14 @@
   <img height=200 style="max-width: 45%; height: auto;" align="center" src="https://github-readme-stats.vercel.app/api?username=hernangior&show_icons=true&theme=highcontrast" />
 </a>
 
+<br>
+<br>
+
+📸 <b>professional photographer</b>, capturing special moments and exploring different techniques to create visually captivating images, as well as a <b>designer</b> and interested in <b>visual arts</b>.
+
+<br>
+<br>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hernangior/hernangior/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hernangior/hernangior/output/github-contribution-grid-snake.svg">
@@ -19,12 +29,6 @@
 
 <br>
 <br>
-
-<p align="justify">
-👨‍💻 <b>Full stack software developer</b> with <b>front-end</b> and <b>back-end</b> skills, passionate about creating innovative and intuitive solutions.
-
-📸 <b>professional photographer</b>, capturing special moments and exploring different techniques to create visually captivating images, as well as a <b>designer</b> and interested in <b>visual arts</b>.
-
 
 ## ⚓ Back End Skills
 

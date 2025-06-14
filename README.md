@@ -10,6 +10,8 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=hernangior&show_icons=true&theme=highcontrast" />
 </a>
 
+    ![Snake animation](https://github.com/hernangior/hernangior/blob/output/github-contribution-grid-snake.svg)
+
 <br>
 <br>
 

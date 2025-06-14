@@ -1,5 +1,6 @@
 # Hi, I'm Hernandez Giordano! 😎
 
+
 <br>
 <br>
 
@@ -11,7 +12,6 @@
 </a>
 
 ![snake animation](https://github.com/hernangior/hernangior/blob/output/github-contribution-grid-snake2.svg)
-
 
 <br>
 <br>

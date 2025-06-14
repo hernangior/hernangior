@@ -13,9 +13,6 @@
   <img height=200 style="max-width: 45%; height: auto;" align="center" src="https://github-readme-stats.vercel.app/api?username=hernangior&show_icons=true&theme=highcontrast" />
 </a>
 
-<br>
-<br>
-
 📸 <b>professional photographer</b>, capturing special moments and exploring different techniques to create visually captivating images, as well as a <b>designer</b> and interested in <b>visual arts</b>.
 
 <br>

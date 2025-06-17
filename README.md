@@ -4,8 +4,6 @@
 </br>
 </br>
 
-<hr>
-
 # Hi, I'm Hernandez Giordano! 😎
 
 <p align="justify">

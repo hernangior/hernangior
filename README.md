@@ -14,7 +14,7 @@
 <!--## A Passionate Java Full Stack/Web developer | Software Developer-->
 
 <div>
-<img align="right" src="https://raw.githubusercontent.com/hernangior/hernangior/refs/heads/master/images/avatar/avatar.png" alt="Profile Image" width="40%" />
+<img align="right" src="https://raw.githubusercontent.com/hernangior/hernangior/refs/heads/master/images/avatar/avatar.png" alt="Profile Image" width="30%" />
 </div>
 
 - 🎓 I hold a Bachelor's degree in Information Systems

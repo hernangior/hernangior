@@ -3,15 +3,17 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=🙃 Hi there! 😀&height=150&section=header" style="width: 100%; height: auto;">
 </div>
 
+<!--
 <img align="right" width="150px" src="https://raw.githubusercontent.com/hernangior/hernangior/refs/heads/master/images/avatar/avatar.png">
 </br>
 </br>
 </br>
+-->
 
 # I'm Hernandez Giordano 😎! 
 
 <div>
-<img align="right" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Profile Image" width="340" />
+<img align="right" src="https://raw.githubusercontent.com/hernangior/hernangior/refs/heads/master/images/avatar/avatar.png" alt="Profile Image" width="340" />
 </div>
 
 ### 💫 About Me

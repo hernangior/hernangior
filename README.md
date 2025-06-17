@@ -10,6 +10,18 @@
 
 # I'm Hernandez Giordano 😎! 
 
+<div>
+<img align="right" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Profile Image" width="340" />
+</div>
+
+### 💫 About Me
+
+- 🎓 I'm a Student and Web Developer
+- 🔭 I’m currently working on Web Development
+- 🌱 I’m currently learning DevOps
+- 👯 I’m looking to collaborate with open source enthusiasts
+- 🥅 2025 Goals: Learn DevOps, Nextjs And strengthen DSA
+
 <p align="justify">
 👨‍💻 <b>Full stack software developer</b> with <b>front-end</b> and <b>back-end</b> skills, passionate about creating innovative and intuitive solutions.
 <br>

@@ -25,7 +25,7 @@
 ## ✉️ Socials
 <div style="width: 100%; text-align: center; position: relative; margin-top: 20px;">
   <!-- Linha de madeira -->
-  <div style="width: 100%; height: 80px; background-image: url('https://raw.githubusercontent.com/hernangior/hernangior/master/images/wooden-shelf.png'); background-size: cover; background-position: center; position: absolute; top: 50%; transform: translateY(-50%); z-index: 1;"></div>
+  <div style="width: 100%; height: 80px; background-image: url('https://static.vecteezy.com/system/resources/thumbnails/010/870/550/small/vintage-wooden-tabletop-or-wood-shelf-isolated-on-white-png.png'); background-size: cover; background-position: center; position: absolute; top: 50%; transform: translateY(-50%); z-index: 1;"></div>
   
   <!-- Ícones sociais -->
   <div style="position: relative; z-index: 2;">

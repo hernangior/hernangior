@@ -18,14 +18,19 @@
 
 ### 💫 About Me
 
+<!--
 - 🎓 I'm a Student and Web Developer
 - 🔭 I’m currently working on Web Development
 - 🌱 I’m currently learning DevOps
 - 👯 I’m looking to collaborate with open source enthusiasts
 - 🥅 2025 Goals: Learn DevOps, Nextjs And strengthen DSA
+-->
 
+<!--
 <p align="justify">
 👨‍💻 <b>Full stack software developer</b> with <b>front-end</b> and <b>back-end</b> skills, passionate about creating innovative and intuitive solutions.
+-->
+
 <br>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hernangior/hernangior/output/github-contribution-grid-snake-dark.svg">

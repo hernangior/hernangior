@@ -8,7 +8,7 @@
 </br>
 </br>
 
-# Hi, I'm Hernandez Giordano 😎! 
+# I'm Hernandez Giordano 😎! 
 
 <p align="justify">
 👨‍💻 <b>Full stack software developer</b> with <b>front-end</b> and <b>back-end</b> skills, passionate about creating innovative and intuitive solutions.

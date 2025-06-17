@@ -357,6 +357,10 @@
 <h3 align="left">GitHub Stats:</h3>
 <p align="left"><img src="https://komarev.com/ghpvc/?username=hernangior&label=Profile%20views&color=0e75b6&style=flat" alt="hernangior"/></p>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" alt="Footer"/>
+</p>
+
 
 
 

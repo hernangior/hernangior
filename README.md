@@ -18,6 +18,12 @@
 
 ### 💫 About Me
 
+- 🎓 I hold a Bachelor's degree in Information Systems
+- 💻 I'm a Full Stack Developer
+- 🔧 Currently working as a Backend Developer
+- 🌱 I'm currently studying Java and Frontend technologies
+- 📸 Professional Photographer in my spare time
+- 
 <!--
 - 🎓 I'm a Student and Web Developer
 - 🔭 I’m currently working on Web Development

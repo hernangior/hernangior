@@ -19,6 +19,14 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/hernangior/hernangior/output/github-contribution-grid-snake.svg">
 </picture>
 <br>
+
+<div style="background-color: #A0522D; height: 30px; width: 100%; border-radius: 5px; margin-bottom: 20px; box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);"></div>
+
+<div style="display: flex; justify-content: center; align-items: flex-end;">
+  <img src="imagem1.jpg" alt="Imagem 1" style="max-height: 150px; margin: 0 10px;">
+  <img src="imagem2.png" alt="Imagem 2" style="max-height: 150px; margin: 0 10px;">
+  <!-- Adicione mais imagens -->
+</div>
   
 📸 <b>professional photographer</b>, capturing special moments and exploring different techniques to create visually captivating images, as well as a <b>designer</b> and interested in <b>visual arts</b>.
 <br>

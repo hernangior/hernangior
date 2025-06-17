@@ -1,7 +1,7 @@
 <div style="position: relative; width: 100%;">
-
   <!-- Segunda imagem: Preenchendo horizontalmente -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=150&section=header" style="width: 100%; height: auto;">
+</div>
 
   <!-- Primeira imagem: Sobreposta e alinhada à direita -->
   <div style="position: absolute; top: 10px; right: 20px;">
@@ -9,7 +9,7 @@
          style="width: 150px; margin-top: -20px;">
   </div>
 
-</div>
+
 
 
 # Hi, I'm Hernandez Giordano 😎! 

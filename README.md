@@ -15,6 +15,7 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/hernangior/hernangior/output/github-contribution-grid-snake.svg">
 </picture>
 <br>
+  
 📸 <b>professional photographer</b>, capturing special moments and exploring different techniques to create visually captivating images, as well as a <b>designer</b> and interested in <b>visual arts</b>.
 
 <br>

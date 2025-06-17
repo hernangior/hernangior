@@ -4,6 +4,8 @@
 </br>
 </br>
 
+<hr>
+
 # Hi, I'm Hernandez Giordano! 😎
 
 <p align="justify">
@@ -347,7 +349,7 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/hernangior/hernangior/output/github-contribution-grid-snake.svg">
 </picture>
 
- ## 🎁 Cotributions
+ ## 🎁 Contributions
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hernangior&" alt="hernangior" /></p>
 
 

@@ -13,7 +13,7 @@
 # I'm Hernandez Giordano 😎! 
 
 <div>
-<img align="right" src="https://raw.githubusercontent.com/hernangior/hernangior/refs/heads/master/images/avatar/avatar.png" alt="Profile Image" width="340" />
+<img align="right" src="https://raw.githubusercontent.com/hernangior/hernangior/refs/heads/master/images/avatar/avatar.png" alt="Profile Image" width="25%" />
 </div>
 
 ### 💫 About Me

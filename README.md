@@ -23,24 +23,30 @@
 📸 <b>professional photographer</b>, capturing special moments and exploring different techniques to create visually captivating images, as well as a <b>designer</b> and interested in <b>visual arts</b>.
 <br>
 ## ✉️ Socials
-<div style="width: 100%; overflow: hidden;">
-  <a href="https://www.linkedin.com/in/hernangior/" style="text-decoration: none;">
-    <img src="https://raw.githubusercontent.com/hernangior/hernangior/master/images/social/linkedin.png" 
-      width="65" height="65">
-  </a>
-  <a href="https://wa.me/5586999017949" style="text-decoration: none;">
-    <img src="https://raw.githubusercontent.com/hernangior/hernangior/master/images/social/whatsapp.png" 
-      width="65" height="65">
-  </a>
-  <a href="https://www.instagram.com/hernangior/" style="text-decoration: none;">
-    <img src="https://raw.githubusercontent.com/hernangior/hernangior/master/images/social/instagram.png" 
-      width="65" height="65">
-  </a>
-  <a href="mailto:hernangior@gmail.com?subject=Assunto%20do%20e-mail&body=Olá,%20tudo%20bem?" style="text-decoration: none;">
-    <img src="https://raw.githubusercontent.com/hernangior/hernangior/master/images/social/gmail.png" 
-      width="65" height="65">
-  </a>
+<div style="width: 100%; text-align: center; position: relative; margin-top: 20px;">
+  <!-- Linha de madeira -->
+  <div style="width: 100%; height: 80px; background-image: url('https://raw.githubusercontent.com/hernangior/hernangior/master/images/wooden-shelf.png'); background-size: cover; background-position: center; position: absolute; top: 50%; transform: translateY(-50%); z-index: 1;"></div>
   
+  <!-- Ícones sociais -->
+  <div style="position: relative; z-index: 2;">
+    <a href="https://www.linkedin.com/in/hernangior/" style="text-decoration: none; margin: 0 10px;">
+      <img src="https://raw.githubusercontent.com/hernangior/hernangior/master/images/social/linkedin.png"
+        width="65" height="65">
+    </a>
+    <a href="https://wa.me/5586999017949" style="text-decoration: none; margin: 0 10px;">
+      <img src="https://raw.githubusercontent.com/hernangior/hernangior/master/images/social/whatsapp.png"
+        width="65" height="65">
+    </a>
+    <a href="https://www.instagram.com/hernangior/" style="text-decoration: none; margin: 0 10px;">
+      <img src="https://raw.githubusercontent.com/hernangior/hernangior/master/images/social/instagram.png"
+        width="65" height="65">
+    </a>
+    <a href="mailto:hernangior@gmail.com?subject=Assunto%20do%20e-mail&body=Olá,%20tudo%20bem?" style="text-decoration: none; margin: 0 10px;">
+      <img src="https://raw.githubusercontent.com/hernangior/hernangior/master/images/social/gmail.png"
+        width="65" height="65">
+    </a>
+  </div>
+
   <!--
   <a>
     <img src="https://raw.githubusercontent.com/hernangior/hernangior/master/images/social/telegram.png" 

@@ -28,6 +28,8 @@
 
 - 📸 Professional Photographer in my spare time
 
+- ⚡ About Me: I'm a Day Dreamer
+
 - 📍 From **Brazil**
 
 <!--

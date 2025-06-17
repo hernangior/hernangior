@@ -27,7 +27,7 @@
 
 ## ⚓ Back End Skills
 
-<div style="width: 100%; overflow: hidden;">
+<div style="width: 100%; overflow: hidden;" align="center">
   <a>
     <!-- Java -->
     <img src="https://raw.githubusercontent.com/hernangior/hernangior/master/images/back/java.png" 

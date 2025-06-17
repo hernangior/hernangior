@@ -124,7 +124,6 @@
 <br>
 <hr>
 
-<details>
 <summary><h1>⚓ Back End Skills</h1></summary><br>
 <div style="width: 100%; overflow: hidden;">
   <a>
@@ -168,7 +167,6 @@
       width="65" height="65">
   </a>
 </div>
-</details>
 
 <div style="width: 100%; overflow: hidden;">
   <a>

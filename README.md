@@ -332,7 +332,7 @@
  ## 📊 My GitHub History!
 
 <br>
-<p>
+<p align="justify">
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 style="max-width: 45%; height: auto;" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut&theme=highcontrast" />
 </a>

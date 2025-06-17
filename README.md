@@ -29,7 +29,7 @@
     <img src="https://raw.githubusercontent.com/hernangior/hernangior/master/images/social/whatsapp.png" 
       width="65" height="65">
   </a>
-      <a>
+  <a>
     <!-- Telegram -->
     <img src="https://raw.githubusercontent.com/hernangior/hernangior/master/images/social/telegram.png" 
       width="65" height="65">
@@ -64,11 +64,13 @@
     <img src="https://raw.githubusercontent.com/hernangior/hernangior/master/images/social/gitlab.png" 
       width="65" height="65">
   </a>
+  <!--
     <a>
     <!-- X -->
     <img src="https://raw.githubusercontent.com/hernangior/hernangior/master/images/social/x.png" 
       width="65" height="65">
   </a>
+  -->
     <a>
     <!-- StackOverflow -->
     <img src="https://raw.githubusercontent.com/hernangior/hernangior/master/images/social/stack.png" 

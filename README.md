@@ -54,16 +54,12 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/hernangior/hernangior/output/github-contribution-grid-snake.svg">
 </picture>
 -->
-<div style="max-width: 300px; border: 1px solid #ddd; border-radius: 12px; padding: 16px; box-shadow: 0 2px 8px rgba(0,0,0,0.1); text-align: center;">
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hernangior/hernangior/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hernangior/hernangior/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/hernangior/hernangior/output/github-contribution-grid-snake.svg">
 </picture>
-  <h3 style="margin-top: 12px; font-family: sans-serif;">Título do Card</h3>
-  <p style="color: #555; font-family: sans-serif;">Descrição opcional ou legenda.</p>
-</div>
-
 
 <!--
 <br>  

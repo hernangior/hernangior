@@ -27,7 +27,7 @@
 
 ## ⚓ Back End Skills
 
-<div style="width: 100%; overflow: hidden;" align="center">
+<div style="width: 100%; overflow: hidden;">
   <a>
     <!-- Java -->
     <img src="https://raw.githubusercontent.com/hernangior/hernangior/master/images/back/java.png" 
@@ -70,7 +70,7 @@
   </a>
 </div>
 
-<div style="width: 100%; overflow: hidden;" align="center">
+<div style="width: 100%; overflow: hidden;">
   <a>
     <!-- Php -->
     <img src="https://raw.githubusercontent.com/hernangior/hernangior/master/images/back/php.png" 
@@ -88,7 +88,7 @@
   </a>
 </div>
 
-<div style="width: 100%; overflow: hidden;" align="center">
+<div style="width: 100%; overflow: hidden;">
   <a>
     <!-- Ruby -->
     <img src="https://raw.githubusercontent.com/hernangior/hernangior/master/images/back/ruby.png" 
@@ -106,7 +106,7 @@
   </a>
 </div>
 
-<div style="width: 100%; overflow: hidden;" align="center">
+<div style="width: 100%; overflow: hidden;">
   <a>
     <!-- C -->
     <img src="https://raw.githubusercontent.com/hernangior/hernangior/master/images/back/c.png" 
@@ -124,7 +124,7 @@
   </a>
 </div>
 
-<div style="width: 100%; overflow: hidden;" align="center">
+<div style="width: 100%; overflow: hidden;">
   <a>
     <!-- Delphi 7 -->
     <img src="https://raw.githubusercontent.com/hernangior/hernangior/master/images/back/delphi7.png" 

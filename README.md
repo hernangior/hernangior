@@ -23,7 +23,6 @@
 📸 <b>professional photographer</b>, capturing special moments and exploring different techniques to create visually captivating images, as well as a <b>designer</b> and interested in <b>visual arts</b>.
 
 <br>
-<br>
 
 ## ✉️ Socials
 <div style="width: 100%; overflow: hidden;">
@@ -83,6 +82,8 @@
       width="65" height="65">
   </a>
 <br>
+
+<hr>
 
 ## ⚓ Back End Skills
 

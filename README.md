@@ -24,11 +24,25 @@
 <br>
 ## ✉️ Socials
 <div style="width: 100%; overflow: hidden;">
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/hernangior/">
+    <img src="https://raw.githubusercontent.com/hernangior/hernangior/master/images/social/linkedin.png" width="65" height="65">
+  </a>
 
-[![LinkedIn](https://raw.githubusercontent.com/hernangior/hernangior/master/images/social/linkedin.png)](https://www.linkedin.com/in/hernangior/)
-[![WhatsApp](https://raw.githubusercontent.com/hernangior/hernangior/master/images/social/whatsapp.png)](https://wa.me/5586999017949)
-[![Instagram](https://raw.githubusercontent.com/hernangior/hernangior/master/images/social/instagram.png)](https://www.instagram.com/hernangior/)
-[![Gmail](https://raw.githubusercontent.com/hernangior/hernangior/master/images/social/gmail.png)](mailto:hernangior@gmail.com?subject=Assunto%20do%20e-mail&body=Olá,%20tudo%20bem?)
+  <!-- WhatsApp -->
+  <a href="https://wa.me/5586999017949">
+    <img src="https://raw.githubusercontent.com/hernangior/hernangior/master/images/social/whatsapp.png" width="65" height="65">
+  </a>
+
+  <!-- Instagram -->
+  <a href="https://www.instagram.com/hernangior/">
+    <img src="https://raw.githubusercontent.com/hernangior/hernangior/master/images/social/instagram.png" width="65" height="65">
+  </a>
+
+  <!-- Gmail -->
+  <a href="mailto:hernangior@gmail.com?subject=Assunto%20do%20e-mail&body=Olá,%20tudo%20bem?">
+    <img src="https://raw.githubusercontent.com/hernangior/hernangior/master/images/social/gmail.png" width="65" height="65">
+  </a>
   
   <!--
   <a>

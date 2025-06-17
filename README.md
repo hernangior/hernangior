@@ -44,8 +44,7 @@
     <img src="https://raw.githubusercontent.com/hernangior/hernangior/master/images/social/gmail.png" 
       width="65" height="65">
   </a>
-
-
+  
   <!--
   <a>
     <img src="https://raw.githubusercontent.com/hernangior/hernangior/master/images/social/telegram.png" 
@@ -88,7 +87,8 @@
       width="65" height="65">
   </a>
   -->
-  
+</div>
+
 <br>
 <hr>
 

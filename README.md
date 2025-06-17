@@ -4,7 +4,7 @@
 </div>
 
   <!-- Primeira imagem: Sobreposta e alinhada à direita -->
-  <div style="position: absolute; top: 10px; right: 20px;">
+  <div style="position: relative; top: 10px; right: 20px;">
     <img src="https://raw.githubusercontent.com/hernangior/hernangior/refs/heads/master/images/avatar/avatar.png" 
          style="width: 150px; margin-top: -20px;">
   </div>

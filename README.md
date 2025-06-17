@@ -124,7 +124,7 @@
 <br>
 <hr>
 
-<h1>⚓ Back End Skills</h1><br>
+<h2>⚓ Back End Skills</h2><br>
 <div style="width: 100%; overflow: hidden;">
   <a>
     <!-- Java -->

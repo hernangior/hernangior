@@ -352,13 +352,12 @@
 <br>
 
   <!--START_SECTION:activity-->
-1. 💪 Opened PR [#85](https://github.com/hernangior/gurupi-site/pull/85) in [hernangior/gurupi-site](https://github.com/hernangior/gurupi-site)
   <!--END_SECTION:activity-->
 
 <summary><b>⚙️ GitHub Analytics</b></summary>
-<a href="https://github.com/sanjay-kv">
-   <img height="155em" src="https://raw.githubusercontent.com/sanjay-kv/github-card-template/master/profile-summary-card-output/github_dark/0-profile-details.svg" alt="Sanjay K V github stats" />
-    <img height="155em" src="https://raw.githubusercontent.com/sanjayviswa/github-card-template/master/profile-summary-card-output/github_dark/3-stats.svg" alt="Sanjay K V github stats" />
+<a href="https://github.com/hernangior">
+   <img height="155em" src="https://raw.githubusercontent.com/hernangior/github-card-template/master/profile-summary-card-output/github_dark/0-profile-details.svg" alt="Hernandez Giordano stats" />
+    <img height="155em" src="https://raw.githubusercontent.com/hernangior/github-card-template/master/profile-summary-card-output/github_dark/3-stats.svg" alt="Hernandez Giordano github stats" />
 <br>
 
  ## 🎁 Contributions

@@ -36,10 +36,13 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hernangior/hernangior/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/hernangior/hernangior/output/github-contribution-grid-snake.svg">
 </picture>
-<br>
-  
+
+<!--
+<br>  
 📸 <b>professional photographer</b>, capturing special moments and exploring different techniques to create visually captivating images, as well as a <b>designer</b> and interested in <b>visual arts</b>.
 <br>
+-->
+
 ## ✉️ Socials
 <div style="width: 100%; overflow: hidden;">
   <a href="https://www.linkedin.com/in/hernangior/" style="text-decoration: none;">

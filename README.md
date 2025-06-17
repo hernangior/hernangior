@@ -21,16 +21,6 @@
 
 <br>
 
-## 📊 My GitHub History!
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hernangior/hernangior/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hernangior/hernangior/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/hernangior/hernangior/output/github-contribution-grid-snake.svg">
-</picture>
-
-<br>
-
 📸 <b>professional photographer</b>, capturing special moments and exploring different techniques to create visually captivating images, as well as a <b>designer</b> and interested in <b>visual arts</b>.
 
 <br>
@@ -348,6 +338,14 @@
       width="65" height="65">
   </a>
  </div>
+
+ ## 📊 My GitHub History!
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hernangior/hernangior/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hernangior/hernangior/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/hernangior/hernangior/output/github-contribution-grid-snake.svg">
+</picture>
 
  ## 🎁 Cotributions
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hernangior&" alt="hernangior" /></p>

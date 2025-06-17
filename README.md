@@ -4,7 +4,11 @@
 </br>
 </br>
 
-# Hi, I'm Hernandez Giordano! 😎
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hi, I'm Hernandez Giordano! 😎&height=100&section=header"/>
+</p>
+
+# Hi, I'm Hernandez Giordano 😎! 
 
 <p align="justify">
 👨‍💻 <b>Full stack software developer</b> with <b>front-end</b> and <b>back-end</b> skills, passionate about creating innovative and intuitive solutions.

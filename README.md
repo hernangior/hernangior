@@ -1,11 +1,15 @@
 <div style="position: relative; width: 100%;">
 
   <!-- Segunda imagem: Preenchendo horizontalmente -->
+  <a>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=150&section=header" style="width: 100%; height: auto;">
+  </a>
 
   <!-- Primeira imagem: Sobreposta e alinhada à direita -->
+  <a align="right">
   <img src="https://raw.githubusercontent.com/hernangior/hernangior/refs/heads/master/images/avatar/avatar.png" 
        style="position: absolute; top: 0; right: 20px; width: 150px; margin-top: -20px;">
+  </a>
 </div>
 
 

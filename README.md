@@ -66,7 +66,6 @@
   </a>
   <!--
     <a>
-    <!-- X -->
     <img src="https://raw.githubusercontent.com/hernangior/hernangior/master/images/social/x.png" 
       width="65" height="65">
   </a>

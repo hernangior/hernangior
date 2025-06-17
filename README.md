@@ -360,6 +360,9 @@
 <img src="https://github-trophies.vercel.app/?username=hernangior&theme=dracula&no-frame=false&no-bg=false&margin-w=4">
 </div>
 
+<hr>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=hernangior&color=red" alt="Total Github views" />
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" alt="Footer"/>
 </p>

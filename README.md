@@ -25,6 +25,65 @@
 <br>
 <br>
 
+## ✉️ Socials
+<div style="width: 100%; overflow: hidden;">
+    <a>
+    <!-- Whatsapp -->
+    <img src="https://raw.githubusercontent.com/hernangior/hernangior/master/images/social/whatsapp.png" 
+      width="65" height="65">
+  </a>
+      <a>
+    <!-- Telegram -->
+    <img src="https://raw.githubusercontent.com/hernangior/hernangior/master/images/social/telegram.png" 
+      width="65" height="65">
+  </a>
+  <a>
+    <!-- Gmail -->
+    <img src="https://raw.githubusercontent.com/hernangior/hernangior/master/images/social/gmail.png" 
+      width="65" height="65">
+  </a>
+    <a>
+    <!-- Instagram -->
+    <img src="https://raw.githubusercontent.com/hernangior/hernangior/master/images/social/instagram.png" 
+      width="65" height="65">
+  </a>
+    <a>
+    <!-- Linkedln -->
+    <img src="https://raw.githubusercontent.com/hernangior/hernangior/master/images/social/linkedin.png" 
+      width="65" height="65">
+  </a>
+    <a>
+    <!-- Discord -->
+    <img src="https://raw.githubusercontent.com/hernangior/hernangior/master/images/social/discord.png" 
+      width="65" height="65">
+  </a>
+    <a>
+    <!-- Dev.to -->
+    <img src="https://raw.githubusercontent.com/hernangior/hernangior/master/images/social/devto.png" 
+      width="65" height="65">
+  </a>
+    <a>
+    <!-- GitLab -->
+    <img src="https://raw.githubusercontent.com/hernangior/hernangior/master/images/social/gitlab.png" 
+      width="65" height="65">
+  </a>
+    <a>
+    <!-- X -->
+    <img src="https://raw.githubusercontent.com/hernangior/hernangior/master/images/social/x.png" 
+      width="65" height="65">
+  </a>
+    <a>
+    <!-- StackOverflow -->
+    <img src="https://raw.githubusercontent.com/hernangior/hernangior/master/images/social/stack.png" 
+      width="65" height="65">
+  </a>
+      <a>
+    <!-- Facebook -->
+    <img src="https://raw.githubusercontent.com/hernangior/hernangior/master/images/social/facebook.png" 
+      width="65" height="65">
+  </a>
+<br>
+
 ## ⚓ Back End Skills
 
 <div style="width: 100%; overflow: hidden;">
@@ -178,64 +237,6 @@
 </div>
 <br>
 
-## ✉️ Social Media
-<div style="width: 100%; overflow: hidden;">
-    <a>
-    <!-- Whatsapp -->
-    <img src="https://raw.githubusercontent.com/hernangior/hernangior/master/images/social/whatsapp.png" 
-      width="65" height="65">
-  </a>
-      <a>
-    <!-- Telegram -->
-    <img src="https://raw.githubusercontent.com/hernangior/hernangior/master/images/social/telegram.png" 
-      width="65" height="65">
-  </a>
-  <a>
-    <!-- Gmail -->
-    <img src="https://raw.githubusercontent.com/hernangior/hernangior/master/images/social/gmail.png" 
-      width="65" height="65">
-  </a>
-    <a>
-    <!-- Instagram -->
-    <img src="https://raw.githubusercontent.com/hernangior/hernangior/master/images/social/instagram.png" 
-      width="65" height="65">
-  </a>
-    <a>
-    <!-- Linkedln -->
-    <img src="https://raw.githubusercontent.com/hernangior/hernangior/master/images/social/linkedin.png" 
-      width="65" height="65">
-  </a>
-    <a>
-    <!-- Discord -->
-    <img src="https://raw.githubusercontent.com/hernangior/hernangior/master/images/social/discord.png" 
-      width="65" height="65">
-  </a>
-    <a>
-    <!-- Dev.to -->
-    <img src="https://raw.githubusercontent.com/hernangior/hernangior/master/images/social/devto.png" 
-      width="65" height="65">
-  </a>
-    <a>
-    <!-- GitLab -->
-    <img src="https://raw.githubusercontent.com/hernangior/hernangior/master/images/social/gitlab.png" 
-      width="65" height="65">
-  </a>
-    <a>
-    <!-- X -->
-    <img src="https://raw.githubusercontent.com/hernangior/hernangior/master/images/social/x.png" 
-      width="65" height="65">
-  </a>
-    <a>
-    <!-- StackOverflow -->
-    <img src="https://raw.githubusercontent.com/hernangior/hernangior/master/images/social/stack.png" 
-      width="65" height="65">
-  </a>
-      <a>
-    <!-- Facebook -->
-    <img src="https://raw.githubusercontent.com/hernangior/hernangior/master/images/social/facebook.png" 
-      width="65" height="65">
-  </a>
-<br>
 
 ## 🗄️ Knowledge in Databases
 <div style="width: 100%; overflow: hidden;">

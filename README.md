@@ -354,6 +354,12 @@
 
 </div><br>
 
+# 🏆 Trophies
+
+<div align="center">
+<img src="https://github-trophies.vercel.app/?username=hernangior&theme=dracula&no-frame=false&no-bg=false&margin-w=4">
+</div>
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" alt="Footer"/>
 </p>

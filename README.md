@@ -1,11 +1,12 @@
+<div style="position: relative; width: 100%;">
 
-<img align="right" width="150px" style="margin-top:-20px" src="https://raw.githubusercontent.com/hernangior/hernangior/refs/heads/master/images/avatar/avatar.png">
-</br>
-</br>
-</br>
+  <!-- Segunda imagem: Preenchendo horizontalmente -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=150&section=header" style="width: 100%; height: auto;">
 
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
+  <!-- Primeira imagem: Sobreposta e alinhada à direita -->
+  <img src="https://raw.githubusercontent.com/hernangior/hernangior/refs/heads/master/images/avatar/avatar.png" 
+       style="position: absolute; top: 0; right: 20px; width: 150px; margin-top: -20px;">
+</div>
 
 
 # Hi, I'm Hernandez Giordano 😎! 

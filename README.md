@@ -18,19 +18,19 @@
 <img align="right" src="https://raw.githubusercontent.com/hernangior/hernangior/refs/heads/master/images/avatar/avatar.png" alt="Profile Image" width="30%" />
 </div>
 
-- ✨ About Me: Calm, creative, and always up for an adventure
-
-- 🌱 I'm currently studying Java and Frontend technologies
-  
-- 🎓 I hold a Bachelor's degree in Information Systems
-
-- 📸 Professional Photographer in my spare time
-
-- 🔧 Currently working as a Backend Developer
+- 📍 From **Brazil**
 
 - 💻 I'm a Full Stack Developer
 
-- 📍 From **Brazil**
+- 🔧 Currently working as a Backend Developer
+
+- 📸 Professional Photographer in my spare time
+
+- 🎓 I hold a Bachelor's degree in Information Systems
+  
+- 🌱 I'm currently studying Java and Frontend technologies
+  
+- ✨ About Me: Calm, creative, and always up for an adventure
 
 <!--
 - 🎓 I'm a Student and Web Developer

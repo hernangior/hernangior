@@ -334,6 +334,9 @@
   </a>
  </div>
 
+<h3 align="left">GitHub Stats:</h3>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=yashwanths814&label=Profile%20views&color=0e75b6&style=flat" alt="yashwanths814"/></p>
+
  ## 📊 My GitHub History!
 
 <br>

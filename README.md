@@ -58,7 +58,7 @@
 <br>
 -->
 
-## ✉️ Socials
+## ✉️ Connect with me
 <div style="width: 100%; overflow: hidden;">
   <a href="https://www.linkedin.com/in/hernangior/" style="text-decoration: none;">
     <img src="https://raw.githubusercontent.com/hernangior/hernangior/master/images/social/linkedin.png" 

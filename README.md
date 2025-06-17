@@ -29,7 +29,7 @@
     <img src="https://raw.githubusercontent.com/hernangior/hernangior/master/images/social/linkedin.png" 
       width="65" height="65">
   </a>
-  <a>
+  <a href="wa.me/5586999017949">
     <!-- Whatsapp -->
     <img src="https://raw.githubusercontent.com/hernangior/hernangior/master/images/social/whatsapp.png" 
       width="65" height="65">

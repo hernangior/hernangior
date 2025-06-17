@@ -24,12 +24,12 @@
 <br>
 ## ✉️ Socials
 <div style="width: 100%; overflow: hidden;">
-  <a href="https://www.linkedin.com/in/hernangior/" style="text-decoration: none; color: inherit;">
+  <a href="https://www.linkedin.com/in/hernangior/" style="all: unset;">
     <!-- LinkedIn -->
     <img src="https://raw.githubusercontent.com/hernangior/hernangior/master/images/social/linkedin.png" 
       width="65" height="65">
   </a>
-  <a href="https://wa.me/5586999017949" style="text-decoration: none; color: inherit;">
+  <a href="https://wa.me/5586999017949" style="text-decoration: none;"">
     <!-- WhatsApp -->
     <img src="https://raw.githubusercontent.com/hernangior/hernangior/master/images/social/whatsapp.png" 
       width="65" height="65">

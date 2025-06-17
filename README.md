@@ -24,26 +24,11 @@
 <br>
 ## ✉️ Socials
 <div style="width: 100%; overflow: hidden;">
-  <a href="https://www.linkedin.com/in/hernangior/" style="all: unset;">
-    <!-- LinkedIn -->
-    <img src="https://raw.githubusercontent.com/hernangior/hernangior/master/images/social/linkedin.png" 
-      width="65" height="65">
-  </a>
-  <a href="https://wa.me/5586999017949" style="text-decoration: none;"">
-    <!-- WhatsApp -->
-    <img src="https://raw.githubusercontent.com/hernangior/hernangior/master/images/social/whatsapp.png" 
-      width="65" height="65">
-  </a>
-  <a href="https://www.instagram.com/hernangior/" style="text-decoration: none; color: inherit;">
-    <!-- Instagram -->
-    <img src="https://raw.githubusercontent.com/hernangior/hernangior/master/images/social/instagram.png" 
-      width="65" height="65">
-  </a>
-  <a href="mailto:hernangior@gmail.com?subject=Assunto%20do%20e-mail&body=Olá,%20tudo%20bem?" style="text-decoration: none; color: inherit;">
-    <!-- Gmail -->
-    <img src="https://raw.githubusercontent.com/hernangior/hernangior/master/images/social/gmail.png" 
-      width="65" height="65">
-  </a>
+
+[![LinkedIn](https://raw.githubusercontent.com/hernangior/hernangior/master/images/social/linkedin.png)](https://www.linkedin.com/in/hernangior/)
+[![WhatsApp](https://raw.githubusercontent.com/hernangior/hernangior/master/images/social/whatsapp.png)](https://wa.me/5586999017949)
+[![Instagram](https://raw.githubusercontent.com/hernangior/hernangior/master/images/social/instagram.png)](https://www.instagram.com/hernangior/)
+[![Gmail](https://raw.githubusercontent.com/hernangior/hernangior/master/images/social/gmail.png)](mailto:hernangior@gmail.com?subject=Assunto%20do%20e-mail&body=Olá,%20tudo%20bem?)
   
   <!--
   <a>

@@ -31,9 +31,6 @@
 
 <br>
 
-## 🎁 Cotributions
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hernangior&" alt="hernangior" /></p>
-
 📸 <b>professional photographer</b>, capturing special moments and exploring different techniques to create visually captivating images, as well as a <b>designer</b> and interested in <b>visual arts</b>.
 
 <br>
@@ -351,6 +348,9 @@
       width="65" height="65">
   </a>
  </div>
+
+ ## 🎁 Cotributions
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hernangior&" alt="hernangior" /></p>
 
 
 

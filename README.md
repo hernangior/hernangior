@@ -1,50 +1,90 @@
+<p align="left"><img src="https://komarev.com/ghpvc/?username=hernangior&color=red" alt="Total Github views" />
+
 <div style="width: 100%;">
   <!-- Segunda imagem: Preenchendo horizontalmente -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=🙃 Hi there! 😀&height=150&section=header" style="width: 100%; height: auto;">
 </div>
 
+<!--
 <img align="right" width="150px" src="https://raw.githubusercontent.com/hernangior/hernangior/refs/heads/master/images/avatar/avatar.png">
 </br>
 </br>
 </br>
+-->
 
-# I'm Hernandez Giordano 😎! 
+<!--<h1 align="center">I'm Hernandez Giordano 😎</h1>-->
+# I'm Hernandez Giordano 😎!
+<!--## A Passionate Java Full Stack/Web developer | Software Developer-->
 
+<div>
+<img align="right" src="https://raw.githubusercontent.com/hernangior/hernangior/refs/heads/master/images/avatar/avatar.png" alt="Profile Image" width="30%" />
+</div>
+
+- 📍 From **Brazil**
+
+- 💻 I'm a Full Stack Developer
+
+- 🔧 Currently working as a Backend Developer
+
+- 📸 Professional Photographer in my spare time
+
+- 🎓 I hold a Bachelor's degree in Information Systems
+  
+- 🌱 I'm currently studying Java and Frontend technologies
+  
+- ✨ About Me: Calm, creative, and always up for an adventure
+
+<!--
+- 🎓 I'm a Student and Web Developer
+- 🔭 I’m currently working on Web Development
+- 🌱 I’m currently learning DevOps
+- 👯 I’m looking to collaborate with open source enthusiasts
+- 🥅 2025 Goals: Learn DevOps, Nextjs And strengthen DSA
+-->
+
+<!--
 <p align="justify">
 👨‍💻 <b>Full stack software developer</b> with <b>front-end</b> and <b>back-end</b> skills, passionate about creating innovative and intuitive solutions.
-<br>
+-->
+
+<!--
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hernangior/hernangior/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hernangior/hernangior/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/hernangior/hernangior/output/github-contribution-grid-snake.svg">
 </picture>
-<br>
-  
+-->
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hernangior/hernangior/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hernangior/hernangior/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/hernangior/hernangior/output/github-contribution-grid-snake.svg">
+</picture>
+
+<!--
+<br>  
 📸 <b>professional photographer</b>, capturing special moments and exploring different techniques to create visually captivating images, as well as a <b>designer</b> and interested in <b>visual arts</b>.
 <br>
-## ✉️ Socials
+-->
+
+## ✉️ Connect with me
 <div style="width: 100%; overflow: hidden;">
-  <a>
-    <!-- Linkedln -->
+  <a href="https://www.linkedin.com/in/hernangior/" style="text-decoration: none;">
     <img src="https://raw.githubusercontent.com/hernangior/hernangior/master/images/social/linkedin.png" 
       width="65" height="65">
   </a>
-  <a>
-    <!-- Whatsapp -->
+  <a href="https://wa.me/5586999017949" style="text-decoration: none;">
     <img src="https://raw.githubusercontent.com/hernangior/hernangior/master/images/social/whatsapp.png" 
       width="65" height="65">
   </a>
-  <a>
-    <!-- Instagram -->
+  <a href="https://www.instagram.com/hernangior/" style="text-decoration: none;">
     <img src="https://raw.githubusercontent.com/hernangior/hernangior/master/images/social/instagram.png" 
       width="65" height="65">
   </a>
-  <a>
-    <!-- Gmail -->
+  <a href="mailto:hernangior@gmail.com?subject=Assunto%20do%20e-mail&body=Olá,%20tudo%20bem?" style="text-decoration: none;">
     <img src="https://raw.githubusercontent.com/hernangior/hernangior/master/images/social/gmail.png" 
       width="65" height="65">
   </a>
-
 
   <!--
   <a>
@@ -88,12 +128,12 @@
       width="65" height="65">
   </a>
   -->
-  
+</div>
+
 <br>
 <hr>
 
-## ⚓ Back End Skills
-
+<h2>⚓ Back End Skills</h2><br>
 <div style="width: 100%; overflow: hidden;">
   <a>
     <!-- Java -->
@@ -368,9 +408,6 @@
 <div align="center">
 <img src="https://github-trophies.vercel.app/?username=hernangior&theme=dracula&no-frame=false&no-bg=false&margin-w=4">
 </div>
-
-<hr>
-<p align="left"><img src="https://komarev.com/ghpvc/?username=hernangior&color=red" alt="Total Github views" />
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" alt="Footer"/>
